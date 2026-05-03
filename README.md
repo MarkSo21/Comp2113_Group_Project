@@ -3,7 +3,7 @@
 A text-based Tic-Tac-Toe game with AI opponent for ENGG1340 / COMP2113 Course Project.
 
 ## Team Members
-- So Yuet (3036060874
+- So Yuet (3036060874）
 
 ## Game Description
 Classic 3x3 Tic-Tac-Toe with 3 difficulty levels. Hard mode uses Minimax algorithm.

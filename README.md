@@ -7,6 +7,11 @@ A text-based Tic-Tac-Toe game with AI opponent for ENGG1340 / COMP2113 Course Pr
 
 ## Game Description
 Classic 3x3 Tic-Tac-Toe with 3 difficulty levels. Hard mode uses Minimax algorithm.
+Rules for Tic-Tac-Toe
+  The game is played on a grid that's 3 squares by 3 squares.
+  You are X , your friend (or the computer in this case) is O . Players take turns putting their marks in empty squares.
+  The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
+  When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 
 ## Features 
 - **Random events**: Easy AI uses random move (rand())
@@ -17,6 +22,5 @@ Classic 3x3 Tic-Tac-Toe with 3 difficulty levels. Hard mode uses Minimax algorit
 - **Multiple difficulty levels**: Easy / Normal / Hard
 
 ## Compilation & Execution
-```bash
 make
 ./tictactoe

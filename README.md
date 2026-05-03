@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Master Battle
+# Tic-Tac-Toe 
 
 A text-based Tic-Tac-Toe game with AI opponent for ENGG1340 / COMP2113 Course Project.
 

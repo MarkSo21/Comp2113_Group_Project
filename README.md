@@ -22,6 +22,18 @@ Rules for Tic-Tac-Toe
 - **Multiple difficulty levels**: Easy / Normal / Hard
 
 ## Compilation & Execution
-make
+-To compile and run the game, follow these steps:Open the terminal and go to the project folder (the folder that contains the Makefile).
+-Compile the program by typing:
 
-./tictactoe
+  make clean
+  make
+
+-After successful compilation, run the game by typing:
+
+  ./tictactoe
+
+-The game will start and show the main menu immediately.Note:  The program is compiled using standard g++ with C++11.  
+No extra libraries are needed.  
+
+
+
